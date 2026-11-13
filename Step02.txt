@@ -1,0 +1,49 @@
+print("Host name: Jordan")
+print("Number of people: 10")
+print("Slices per person: 3")
+
+print()
+
+print("=" * 3 + "  Pizza Plan for Jordan's Party  " + "=" * 3)
+
+print("Slices needed:      30")
+print("Whole pizzas:        3")
+print("Extra slices:        6")
+print("Total cost:            $52.47")
+print("Cost per person:   $5.25")
+
+print()
+print()
+print()
+
+print("Host name: Priya")
+print("Number of people: 6")
+print("Slices per person: 2")
+
+print()
+
+print("=" * 3 + "  Pizza Plan for Priya's Party  " + "=" * 3)
+print("Slices needed:      12")
+print("Whole pizzas:        1")
+print("Extra slices:        4")
+print("Total cost:            $21.99")
+print("Cost per person:   $3.67")
+
+print()
+print()
+print()
+
+print("Destination: Columbus")
+print("Trip distance (miles): 150")
+print("Car's miles per gallon: 30")
+print("Gas price per gallon: 3.20")
+print("Number of people splitting the cost: 2")
+
+print()
+
+print("-" *3 + " Trip to Colubus "+"-" *3)
+print("Gallons of gas:       5.0")
+print("Gas cost:                $16.00")
+print("Cost per person:    $8.00")
+print("Driving time:         (2 hr 43 min (at 55 mph)")
+print("Round trip gas:      $32.00")
